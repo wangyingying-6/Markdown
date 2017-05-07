@@ -23,11 +23,12 @@ XXX项目团队
 无。
 #需求描述
 ##3.1角色（用户）分析
-![MD](http://pic.sogou.com/d?query=markdown&mode=1&did=7#did6
+![MD](http://pic.sogou.com/d?query=markdown&mode=1&did=7#did6）
 #功能性需求
 1.用户输入账号和密码
 2.用户点击登录按钮
 3.系统验证账号
+
 - 用户输入账号和密码
 - 用户点击登录按钮
 + 系统验证账号
@@ -38,3 +39,4 @@ XXX项目团队
 # 3、	测试是否成功：
 ## 测试是否成功：
   测试是否成功测试是否成功测试是否成功测试是否成功测试是否成功
+http：//www.baidu.com
