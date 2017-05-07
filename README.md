@@ -22,12 +22,12 @@ XXX项目团队
 **超出范围：**
 无。
 #需求描述
-##3.1角色（用户）分析
-![MD](http://pic.sogou.com/d?query=markdown&mode=1&did=7#did6）
+##角色（用户）分析
+![MD](http://pic.sogou.com/pics/recompic/detail.jsp?category=LOFTER&tag=%E5%8A%A8%E7%89%A9#0%2612799156）
 #功能性需求
-1.用户输入账号和密码
-2.用户点击登录按钮
-3.系统验证账号
+1.用户输入账号和密码； 
+2.用户点击登录按钮；
+3.系统验证账号；
 
 - 用户输入账号和密码
 - 用户点击登录按钮
@@ -39,4 +39,4 @@ XXX项目团队
 # 测试是否成功：
 ## 测试是否成功：
   测试是否成功测试是否成功测试是否成功测试是否成功测试是否成功
-http：//www.baidu.com
+  http：//www.baidu.com
