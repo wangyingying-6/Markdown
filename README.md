@@ -23,7 +23,7 @@ Markdown语法
    无。
 # 需求描述
 ## 角色（用户）分析
-![MD](http://pic.sogou.com/pics/recompic/detail.jsp?category=LOFTER&tag=%E5%8A%A8%E7%89%A9#0%2612799156）
+![MD]（http://pic.sogou.com/pics/recompic/detail.jsp?category=LOFTER&tag=%E5%8A%A8%E7%89%A9#0%2612799156）
 # 功能性需求
 1. 用户输入账号和密码； 
 2. 用户点击登录按钮；
@@ -39,4 +39,4 @@ Markdown语法
 # 测试是否成功：
 ## 测试是否成功：
   测试是否成功测试是否成功测试是否成功测试是否成功测试是否成功
-  http：//www.baidu.com
+  [百度]（http：//www.baidu.com）
